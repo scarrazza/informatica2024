@@ -22,4 +22,4 @@ dove `<username>` è il vostro nome utente, cioè quello che abitualmente usate 
 
 ### Modalità
 
-Il tema d'esame e rispettivi dati sono disponibili sul server `tolab.fisica.unimi.it` nella cartella `/home/comune/20240913_Dati`. In particolare, il testo del tema d'esame è contenuto nel file `esame.pdf`.
+Il tema d'esame e rispettivi dati sono disponibili sul server `tolab.fisica.unimi.it` nella cartella `/home/comune/20241221_Dati`. In particolare, il testo del tema d'esame è contenuto nel file `esame.pdf`.
